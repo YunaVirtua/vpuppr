@@ -1,3 +1,3 @@
 [submodule "libvpuppr"]
 	path = libvpuppr
-	url = git@github.com:virtual-puppet-project/libvpuppr.git
+	url = git@github.com:YunaVirtua/libvpuppr.git
