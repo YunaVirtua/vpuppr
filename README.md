@@ -1,10 +1,8 @@
 # Vpuppr
 
-VTuber software made with Godot.
+VTuber software made with Godot 4. Originally developed by [virtual-puppet-project](https://github.com/virtual-puppet-project).
 
-Godot 4 rewrite in progress.
-
-The Godot 3 version is currently located on the `godot-3` branch.
+This version targets macOS. 
 
 ## Status
 
